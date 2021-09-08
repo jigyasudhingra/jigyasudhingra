@@ -14,7 +14,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&layout=compact" />
 </a>
 </div>
 
