@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**jigyasudhingra/jigyasudhingra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://visitor-badge.laobi.icu/badge?page_id=jigyasudhingra) [![Github](https://img.shields.io/github/followers/jigyasudhingra?label=Followers&logo=Github)](https://github.com/jigyasudhingra)
 
-Here are some ideas to get you started:
+```📫 How to reach me``` :   jigyasudhingra@gmail.com
+<!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with AI Music Generation -->
+<br>
+<div class="container">
+<a href="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&theme=tokyonight">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php" />
+</a>
+</div>
+
+
+
+
+
+
+
+
