@@ -10,11 +10,11 @@
 - 🤔 I’m looking for help with AI Music Generation -->
 <br>
 <div class="container">
-<a href="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true" />
+<a href="https://github-readme-stats.vercel.app/api?username=jigyasudhingra">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true&hide=contribs" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&theme=tokyonight">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&layout=compact" />
 </a>
 </div>
 
