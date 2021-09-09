@@ -9,14 +9,14 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with AI Music Generation -->
 <br>
-<div>
+
 <a href="https://github-readme-stats.vercel.app/api?username=jigyasudhingra">
-  <img  align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true&hide=contribs" />
+  <img  width="500" height="170" align="center" src="https://github-readme-stats.vercel.app/api?username=jigyasudhingra&count_private=true&show_icons=true&hide=contribs" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&layout=compact" />
+  <img align="center" width="400" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigyasudhingra&hide=php&layout=compact" />
 </a>
-</div>
+
 
 
 
