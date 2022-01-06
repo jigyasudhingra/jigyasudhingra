@@ -1,7 +1,7 @@
 <table>
 
 ### Hey there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=jigyasudhingra) [![Github](https://img.shields.io/github/followers/jigyasudhingra?label=Followers&logo=Github)](https://github.com/jigyasudhingra) 
+[![Github](https://img.shields.io/github/followers/jigyasudhingra?label=Followers&logo=Github)](https://github.com/jigyasudhingra) 
   
 ```📫 How to reach me``` :   jigyasudhingra@gmail.com
 <!-- Here are some ideas to get you started: -->
