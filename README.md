@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jigyasu Dhingra</h1>
-<h3 align="center">Final Year Student and Full Stack Web Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center"> 📫 How to reach me: <a href="mailto:jigyausdhingra@gmail.com">jigyasudhingra@gmail.com</b></p>
 
